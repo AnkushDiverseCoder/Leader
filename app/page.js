@@ -2,7 +2,7 @@
 // import Hero from "@/components/Hero/Hero";
 import { useEffect, useState } from "react";
 import Lenis from '@studio-freight/lenis'
-import ZoomParallax from '../components/ZoomParallex/index';
+import ZoomParallax from '../components/ZoomParallex/Index.jsx';
 
 function LoadingAnimation() {
   return (
